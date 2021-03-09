@@ -14,5 +14,4 @@ The name, or nickname, of the customer is then randomly chosen to give these per
 **Description:**
 Responsive HTML, CSS, JavaScript theme for a coffee shop business. The present landing page could be a good choice for a small business. 
 For medium businesses additional features can be added and additional pages can be implemented for a great customer experience. 
-An additional feature that it should not be left out is the user experience too. This could help small businesses to increase their online presence.
 
