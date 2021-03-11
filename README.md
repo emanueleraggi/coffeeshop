@@ -14,6 +14,5 @@ The name, or nickname, of the customer is then randomly chosen to give these per
 **Description:**
 Responsive HTML, CSS, JavaScript theme for a coffee shop business. The present landing page could be a good choice for a small business. 
 For medium businesses additional features can be added and additional pages can be implemented for a great customer experience. 
-This could be a sample landing page because it carries all necessary components 
-to consider.
+This could be a sample landing page because it carries all necessary components to consider.
 
